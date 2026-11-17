@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+# Update this to your production domain after deploying.
+Sitemap: https://ragbooms.com/sitemap.xml

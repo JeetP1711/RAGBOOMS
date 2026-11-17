@@ -1,0 +1,5 @@
+<!-- Temporary favicon in the brand green. Replace it in Admin → Settings → Favicon with one cut from the real logo. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#050907"/>
+  <path d="M9 25 11 7l11 4-7 6 8 8h-5l-5.5-6L13 25Z" fill="none" stroke="#18C995" stroke-width="2.2" stroke-linejoin="miter"/>
+</svg>
